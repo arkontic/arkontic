@@ -1,5 +1,3 @@
-# Arkontic
-
 <p align="center">
   <strong>Developing CLI tools, system utilities, and open-source software solutions.</strong>
 </p>
@@ -18,14 +16,6 @@ Independent software engineer focused on building low-overhead system utilities,
 *   **Languages:** Go | Rust | C | Shell Script (Bash/Zsh)
 *   **Environments:** Linux | macOS (Darwin) | BSD
 *   **Package Managers:** Homebrew (Tap) | Cargo | Go Modules
-
-### 📊 Repository Insights
-
-<p align="center">
-  <img src="https://vercel.app" alt="Arkontic's GitHub Stats" width="48%">
-  <img src="https://vercel.app" alt="Top Languages" width="48%">
-</p>
-
 ---
 <p align="center">
   <sub>All software published here is distributed under open-source licenses (MIT/Apache 2.0).</sub>
