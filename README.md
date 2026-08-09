@@ -4,11 +4,6 @@
   <strong>Developing CLI tools, system utilities, and open-source software solutions.</strong>
 </p>
 
-<p align="center">
-  <img src="https://shields.io" alt="Followers">
-  <img src="https://shields.io" alt="Focus">
-</p>
-
 ---
 
 ### 🛠️ Overview
