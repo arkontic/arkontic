@@ -1,11 +1,6 @@
 # Arkontic
 
 <p align="center">
-  <!-- Substitua a URL abaixo pela imagem que você gerou com o prompt da IA -->
-  <img src="https://githubusercontent.com" width="120" height="120" style="border-radius: 50%;" alt="Arkontic Avatar">
-</p>
-
-<p align="center">
   <strong>Developing CLI tools, system utilities, and open-source software solutions.</strong>
 </p>
 
